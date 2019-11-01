@@ -1,2 +1,3 @@
 # snakemake_example
-snakemake workflow example for msprime
+This provides a very basic snakemake workflow example for using msprime and tskit for something
+slightly useful
